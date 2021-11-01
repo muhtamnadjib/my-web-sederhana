@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#site-container{
+    width: 960px;
+    height: auto;
+    margin: 20px;
+    border: 1px solid #000;
+ padding-top:  5px;
+ padding-bottom: 5px;    
+}
+
+#header{
+    width: 950px;
+    height: 280px;
+    background-image: url(../images/header_1.jpg);
+    margin: 0px auto;
+    border: 1px solid #000;
+}
+
+#menu-content{
+    width: 950px;
+    height: auto;
+    margin: 5 auto;
+}
+
+#footer{
+    width: 950px;
+    height: 70px;
+    margin: 5px auto;
+    border: 1px solid #000;
+}
+
+.floating{
+    clear: both;
+    height: 0px;
+    line-height:0px;
+}
